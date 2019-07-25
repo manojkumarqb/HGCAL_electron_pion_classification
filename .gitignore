@@ -1,0 +1,8 @@
+.DS_Store
+*/.DS_Store
+*/*.pyc
+*pycache*
+.sys*
+*/.sys*
+*._*
+*.h5
